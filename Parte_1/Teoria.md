@@ -40,4 +40,9 @@ pip install django-filter  # Filtering support
 ```
  Apos download colocar como INSTALLED APP
 
-## Criando models commit_id = 01
+## Criando models commit_id = 01 (cid 01)
+
+## Configurando admin  cid 02
+
+- Importar models para admin de escola
+- Configurando classes do admin
