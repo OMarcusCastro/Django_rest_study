@@ -26,3 +26,18 @@
 
 - Tecnologia que recebe requisicoes, busca em alguma outra tecnologia e retorna a resposta para quem requisitou em um formato `JSON` ou `XML`.
 
+## Iniciando projeto 
+
+Apos `python manage.py startapp escola`  em *views* de escola mudar de `from django.shortcuts import render ` para `from django.http import JsonResponse` --> pois a API vai retornar um `JSON`
+
+
+## Django rest download
+
+```
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
+```
+ Apos download colocar como INSTALLED APP
+
+## Criando models commit_id = 01
