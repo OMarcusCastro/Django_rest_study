@@ -57,3 +57,10 @@ pip install django-filter  # Filtering support
 
 - Rotas criadas
 - Json retornado
+
+## PUT e PATCH cid 05
+
+- PUT: Substitui todo o recurso 
+- PATCH: Atualiza um conjunto selecionado dentro de um recurso
+
+### testando por minha conta server local cors cid 06

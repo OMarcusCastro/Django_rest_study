@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(146, 39, 146);
+}
+
+#alunos-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px;
+}
+
+#alunos-list li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para realçar ao passar o mouse sobre os itens da lista */
+#alunos-list li:hover {
+    background-color: #f0f0f0;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+/* Exemplo de media query para ajustar o estilo em telas pequenas */
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    #alunos-list li {
+        font-size: 14px;
+    }
+}
