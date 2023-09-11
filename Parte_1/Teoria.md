@@ -46,3 +46,14 @@ pip install django-filter  # Filtering support
 
 - Importar models para admin de escola
 - Configurando classes do admin
+  
+## Serializers  cid 03
+
+- Converte o model para algo que consegue virar json.
+    - Estamos fazendo isso para configurar o view 
+- Filtra os dados que vao para api
+
+## View set em views dos apps cid 04
+
+- Rotas criadas
+- Json retornado
