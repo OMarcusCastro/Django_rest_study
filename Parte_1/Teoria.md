@@ -64,3 +64,5 @@ pip install django-filter  # Filtering support
 - PATCH: Atualiza um conjunto selecionado dentro de um recurso
 
 ### testando por minha conta server local cors cid 06
+
+## criando matriculas e relacionam alunos com cursos cid 07
