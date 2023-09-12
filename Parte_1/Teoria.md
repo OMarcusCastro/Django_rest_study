@@ -68,3 +68,5 @@ pip install django-filter  # Filtering support
 ## criando matriculas e relacionam alunos com cursos cid 07
 
 ## Listando com novas rotas cid 08
+
+## autenticacao basica para views cid 09
