@@ -66,3 +66,5 @@ pip install django-filter  # Filtering support
 ### testando por minha conta server local cors cid 06
 
 ## criando matriculas e relacionam alunos com cursos cid 07
+
+## Listando com novas rotas cid 08
