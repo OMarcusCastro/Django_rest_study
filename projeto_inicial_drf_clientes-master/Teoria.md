@@ -73,3 +73,7 @@ pip install django-filter  # Filtering support
 
 
 ## criacao de novo projeto implementando validacao de campos cid 10
+
+## Criando filtro de celular com expressoes regulares cid 11
+
+## Instalando e usando o doc-br-> pacote de verificacao de doc do brasil cid 12 
