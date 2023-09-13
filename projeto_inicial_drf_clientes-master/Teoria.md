@@ -70,3 +70,6 @@ pip install django-filter  # Filtering support
 ## Listando com novas rotas cid 08
 
 ## autenticacao basica para views cid 09
+
+
+## criacao de novo projeto implementando validacao de campos cid 10
