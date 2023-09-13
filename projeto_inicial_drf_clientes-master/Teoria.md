@@ -83,3 +83,5 @@ pip install django-filter  # Filtering support
 ## Ordenacao cid 14
 
 ## Busca e Filtro cid 15
+
+## Atualizando os requirements e fazendo deploy cid 16
