@@ -76,4 +76,6 @@ pip install django-filter  # Filtering support
 
 ## Criando filtro de celular com expressoes regulares cid 11
 
-## Instalando e usando o doc-br-> pacote de verificacao de doc do brasil cid 12 
+## Instalando e usando o doc-br-> pacote de verificacao de doc do brasil cid 12  
+
+## Paginacao cid 13
