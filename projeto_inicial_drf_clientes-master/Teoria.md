@@ -81,3 +81,5 @@ pip install django-filter  # Filtering support
 ## Paginacao cid 13
 
 ## Ordenacao cid 14
+
+## Busca e Filtro cid 15
