@@ -79,3 +79,5 @@ pip install django-filter  # Filtering support
 ## Instalando e usando o doc-br-> pacote de verificacao de doc do brasil cid 12  
 
 ## Paginacao cid 13
+
+## Ordenacao cid 14
